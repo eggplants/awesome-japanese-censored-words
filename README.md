@@ -10,16 +10,38 @@
   - [MIT License](https://github.com/MosasoM/inappropriate-words-ja/blob/master/LICENSE)
 - [1never/open2ch-dialogue-corpus - ng_words.txt](https://raw.githubusercontent.com/1never/open2ch-dialogue-corpus/177246f19e59eba1db4596268041ad3fd05884e2/data/ng_words.txt)
   - [Apache License 2.0](https://github.com/1never/open2ch-dialogue-corpus/blob/5dbdd066525dc815541977784bc82378f5fd8a5f/LICENSE)
+- [2525Azarashi/ChemNote - nicknameFilter.ts](https://raw.githubusercontent.com/2525Azarashi/ChemNote/9ea85642e55c633c489516ba29e3fe710181cc9b/src/features/safety/nicknameFilter.ts)
+  - No License
+- [BlueFalconHD/apple_generative_model_safety_decrypted - locale_ja_JP_metadata.json](https://raw.githubusercontent.com/BlueFalconHD/apple_generative_model_safety_decrypted/3e7b56f205963e33ac8a9695d080899275cfd998/combined_metadata/locale_ja_JP_metadata.json)
+  - No License
+- [Dangetsu/vnr - zunko.cs](https://raw.githubusercontent.com/Dangetsu/vnr/d2b9bad6af9577f639ce47171d506c9fbf401984/Frameworks/Sakura/cpp/libs/voiceroid/aitalked/cs/VOICEROID/AITalkEditor/zunko.cs)
+  - [GNU General Public License v3.0](https://github.com/Dangetsu/vnr/blob/d2b9bad6af9577f639ce47171d506c9fbf401984/License.txt)
 - [DeanEzekiel/Unity-ArcadeSpaceShooter - ja.txt](https://raw.githubusercontent.com/DeanEzekiel/Unity-ArcadeSpaceShooter/9eea6d5dc0c6a5ace4e951a31f59908cd34b9ddf/Assets/Plugins/crosstales/BadWordFilter/Resources/Filters/ltr/ja.txt)
+  - No License
+- [DotAbyss/Masterdata - m_ng_words.json](https://raw.githubusercontent.com/DotAbyss/Masterdata/bbf71c9c039b6efea41f5614b5b6b0c32456f9f1/data/m_ng_words.json)
+  - No License
+- [Elysia-simp/Plot_DB - NgWord.json](https://raw.githubusercontent.com/Elysia-simp/Plot_DB/8c9fa43ff12607f1b4602203819268bf1741d735/NgWord.json)
+  - No License
+- [FukaseDaichi/nazomatic - casualPuzzle.mjs](https://raw.githubusercontent.com/FukaseDaichi/nazomatic/9c229df32bdafcf94054fdcb5aa2ce2f0227e633/scripts/x-browser-posting/casualPuzzle.mjs)
+  - No License
+- [Fun-Growth-Lab/math-games - fgl-name.js](https://raw.githubusercontent.com/Fun-Growth-Lab/math-games/754d01e61cf11213737d8df08a2e7a1db7781e1a/fgl-name.js)
+  - No License
+- [LEXIA-Saito/sns - ngwords.ts](https://raw.githubusercontent.com/LEXIA-Saito/sns/19d83a2ce5a5fa858aab132cfcaba2588f3fd1f1/src/lib/ngwords.ts)
   - No License
 - [Nextremer/minarai-cs-chat-webui - blackWords.js](https://raw.githubusercontent.com/Nextremer/minarai-cs-chat-webui/79db06f0946977266d316adfebebb56d3f18ba32/src/js/conf/blackWords.js)
   - [MIT License](https://github.com/Nextremer/minarai-cs-chat-webui/tree/79db06f0946977266d316adfebebb56d3f18ba32#license)
-- [Qman11010101/censorbot - NGWORDS.txt](https://raw.githubusercontent.com/Qman11010101/censorbot/a2797929d2492786ce4f026c301ec8560e8338d8/NGWORDS.txt)
-  - [MIT License](https://github.com/Qman11010101/censorbot/blob/5d2a44769274edc1c63e2df3beaf472e06c86a42/LICENSE)
+- [SugiSaku8/Deep-School - loop.js](https://raw.githubusercontent.com/SugiSaku8/Deep-School/451ae4e617ec47468d2fda7fc1e9bcbce591260f/Client/public/client/js/filter/bd/loop.js)
+  - No License
+- [Tanat05/korean-profanity-resources - slang.csv](https://raw.githubusercontent.com/Tanat05/korean-profanity-resources/f5e61ebe3a439ad16797b4bdcb255c1489a7d324/slang.csv)
+  - No License
 - [WorksApplications/SudachiTra - ng_words.txt](https://raw.githubusercontent.com/WorksApplications/SudachiTra/c7e0a4d267e013d9f07db67cb2ac5840a751892b/pretraining/bert/resources/ng_words.txt)
   - [Apache License 2.0](https://github.com/WorksApplications/SudachiTra/blob/10b4705e89145c652838f1f993eb5a19d2c02a25/LICENSE)
 - [Xeltica/Citrine - ngwords.txt](https://raw.githubusercontent.com/Xeltica/Citrine/8a6038e845a9d8ed29a691373cd1a3ceace8b761/Resources/ngwords.txt)
   - [MIT License](https://github.com/Xeltica/Citrine/blob/8c1e15d97057c7ad3df0f42d8316ffdfc29ca257/LICENSE)
+- [YukimaruGit/student-id-generator - app.js](https://raw.githubusercontent.com/YukimaruGit/student-id-generator/8e1020fca8e53bd7f638ec603d2c844018991aba/public/assets/js/app.js)
+  - [MIT License](https://github.com/YukimaruGit/student-id-generator/blob/8e1020fca8e53bd7f638ec603d2c844018991aba/LICENSE.txt)
+- [ZachHandley/ContentShield - profanity.json](https://raw.githubusercontent.com/ZachHandley/ContentShield/46420d1d0a19b3690e247e38d326c64929155ff9/data/languages/ja/profanity.json)
+  - [MIT License](https://github.com/ZachHandley/ContentShield/blob/46420d1d0a19b3690e247e38d326c64929155ff9/LICENSE)
 - [akicho8/shogi-extend - handle_name_ng_word_list.js](https://raw.githubusercontent.com/akicho8/shogi-extend/f110723006260b7da2ede652ac9fa7c0c06efe39/nuxt_side/components/models/handle_name_ng_word_list.js)
   - [Unlicensed](https://github.com/akicho8/shogi-extend/blob/498968f4e999d95e0964b0f2461b5486b5e6b67c/package.json#L2)
 - [citizenlab/chat-censorship - 640568.txt](https://raw.githubusercontent.com/citizenlab/chat-censorship/e482eca6e2eb65edeee795d3873c31e257d2d797/open-source/blacklists/640568.txt)
@@ -30,15 +52,55 @@
   - [CC4.0 BY-NC-SA international](https://github.com/citizenlab/chat-censorship/tree/26c9a52da8ae408662aac36d16ef74b2d34be682#license)
 - [citizenlab/chat-censorship - jp.txt](https://raw.githubusercontent.com/citizenlab/chat-censorship/8ca199359d92315da698882eb9f19adf55397fef/apple/update-2022-02-27/jp.txt)
   - [CC4.0 BY-NC-SA international](https://github.com/citizenlab/chat-censorship/tree/26c9a52da8ae408662aac36d16ef74b2d34be682#license)
+- [clanner/simcitybuildit - badwords.txt](https://raw.githubusercontent.com/clanner/simcitybuildit/83dcffb874bac4e892262924f6ccf879cb640eda/badwords.txt)
+  - No License
+- [ddon-research/ddon-data - ng_word_chat.gmd.json](https://raw.githubusercontent.com/ddon-research/ddon-data/705d532084a66ac13dcc5da1da20d744c9e09dde/client/03040008/ui/gui_cmn/ui/00_message/ng_word/ng_word_chat.gmd.json)
+  - No License
 - [el-ideal-ideas/MocaBot - Offensive.txt](https://raw.githubusercontent.com/el-ideal-ideas/MocaBot/aa7e0899a2e402a34c6b7d1156e45198adac7c7b/src/moca_modules/moca_data/word_blacklist/japanese/Offensive.txt)
   - [MIT License](https://github.com/el-ideal-ideas/MocaBot/blob/8e5f5f0ae8dc4ce583e2f61f95667a23036c64c3/LICENSE.txt)
 - [el-ideal-ideas/MocaBot - Sexual.txt](https://raw.githubusercontent.com/el-ideal-ideas/MocaBot/aa7e0899a2e402a34c6b7d1156e45198adac7c7b/src/moca_modules/moca_data/word_blacklist/japanese/Sexual.txt)
   - [MIT License](https://github.com/el-ideal-ideas/MocaBot/blob/8e5f5f0ae8dc4ce583e2f61f95667a23036c64c3/LICENSE.txt)
 - [el-ideal-ideas/MocaBot - Sexual_with_bopo.txt](https://raw.githubusercontent.com/el-ideal-ideas/MocaBot/aa7e0899a2e402a34c6b7d1156e45198adac7c7b/src/moca_modules/moca_data/word_blacklist/japanese/Sexual_with_bopo.txt)
   - [MIT License](https://github.com/el-ideal-ideas/MocaBot/blob/8e5f5f0ae8dc4ce583e2f61f95667a23036c64c3/LICENSE.txt)
+- [esterTion/yumesute_master_db_diff - NgWordMaster.json](https://raw.githubusercontent.com/esterTion/yumesute_master_db_diff/c64f90cb3e0a6e2ea8cc917450e46f6af011f2c3/NgWordMaster.json)
+  - No License
+- [gil-unx/SHINNING_ARK_GUGULE - MTPA_GAME.txt](https://raw.githubusercontent.com/gil-unx/SHINNING_ARK_GUGULE/73fff12b1fe1e16003d30410436f220cf117eaef/txt/ja/MTP/MTPA_GAME.txt)
+  - [MIT License](https://github.com/gil-unx/SHINNING_ARK_GUGULE/blob/73fff12b1fe1e16003d30410436f220cf117eaef/LICENSE)
+- [gonet2/wordfilter - dirty.txt](https://raw.githubusercontent.com/gonet2/wordfilter/8e1f3fe7951bad4a758487d2624f99d144ae2e9a/dirty.txt)
+  - [MIT License](https://github.com/gonet2/wordfilter/blob/8e1f3fe7951bad4a758487d2624f99d144ae2e9a/LICENSE)
+- [hatankokka/png-gen - ng_words.txt](https://raw.githubusercontent.com/hatankokka/png-gen/4bc7f2805f9f60f10fbedbf21d6d02b9a067609c/.streamlit/ng_words.txt)
+  - No License
+- [isucon/isucon6-qualify - kinshi.csv](https://raw.githubusercontent.com/isucon/isucon6-qualify/ba21fa19573deba630f34ebe470141dff6a67273/cmd/isupam/testdata/kinshi.csv)
+  - [MIT License](https://github.com/isucon/isucon6-qualify/blob/ba21fa19573deba630f34ebe470141dff6a67273/LICENSE)
+- [kojira/NostrSpellingBee - jmdict-real-dictionary.ts](https://raw.githubusercontent.com/kojira/NostrSpellingBee/61578e95c13a3d8ea1f8b3d7aa2b531086da5bbb/server/jmdict-real-dictionary.ts)
+  - [MIT License](https://github.com/kojira/NostrSpellingBee/blob/61578e95c13a3d8ea1f8b3d7aa2b531086da5bbb/package.json#L5)
+- [ksw-1024/uta_wo_kaku - housouKinshiYougo.xml](https://raw.githubusercontent.com/ksw-1024/uta_wo_kaku/395da28bd2f734b75362eb297fc40b9fbbce0e0b/backend/setting/housouKinshiYougo.xml)
+  - No License
+- [mufei0120/MoyuHero - shield_Japan.txt](https://raw.githubusercontent.com/mufei0120/MoyuHero/2d51824ca53fd0887f6f7370a0163cb11ef7c3ca/Server/src/gs/gamedata/files/shield_Japan.txt)
+  - [GNU General Public License v3.0](https://github.com/mufei0120/MoyuHero/blob/2d51824ca53fd0887f6f7370a0163cb11ef7c3ca/LICENSE)
 - [nanakochi123456/PyukiWiki-Current - ngwords_ja.txt](https://raw.githubusercontent.com/nanakochi123456/PyukiWiki-Current/4784e38f2faf838abd5a6e3a01814be0b7919f78/src/utf8-lf/pyukiwiki-0.2.1-customoer-preview-devel-utf8/build/ngwords_ja.txt)
   - [GNU General Public License version 3 and Artistic License](https://github.com/nanakochi123456/PyukiWiki-Current/blob/4784e38f2faf838abd5a6e3a01814be0b7919f78/src/utf8-lf/pyukiwiki-0.2.1-customoer-preview-devel-utf8/README.ja.txt#L113-L148)
+- [nappa0326/Playcert-Flutter - ngwords.txt](https://raw.githubusercontent.com/nappa0326/Playcert-Flutter/3c3c676ecbdc72f0a5dbe7d4609c6dc9d7f21f15/Laravel/public/files/ngwords.txt)
+  - No License
 - [neko-gg/gfl-data - forbidwords.txt](https://raw.githubusercontent.com/neko-gg/gfl-data/25e1b3e49c34e4347c509fe61ae3155ab66ae27d/jp/asset/asset-textes/textdata/forbidwords/forbidwords.txt)
   - No Licensed
+- [patatan168/next-hakoniwa - profanity_ja.json](https://raw.githubusercontent.com/patatan168/next-hakoniwa/ddc3197b819d63aa12adfdd1328a997033f17d19/src/global/define/profanity/profanity_ja.json)
+  - [MIT License](https://github.com/patatan168/next-hakoniwa/blob/ddc3197b819d63aa12adfdd1328a997033f17d19/LICENSE)
 - [ptaszynski/mlask - vulgar_uncoded.txt](https://raw.githubusercontent.com/ptaszynski/mlask/43eb89ed9eda27dc838f0161a9d8ae77d759c7a6/emotemes/vulgar_uncoded.txt)
   - [3-Clause BSD License](https://github.com/ptaszynski/mlask/blob/fcdd037963343263f052f18f73f0f883d23b7f49/LICENSE.md)
+- [reoharada/NGWordTextField - NGWord.txt](https://raw.githubusercontent.com/reoharada/NGWordTextField/6f0b22a474e80f029a0d01ddf3b35c8a28bdb8ff/NGWordTextView/NGWord.txt)
+  - No License
+- [sharpobject/sg_xml - curse.xml](https://raw.githubusercontent.com/sharpobject/sg_xml/f694732b0592351bfa26a9edb453790008cdb016/KR/curse.xml)
+  - No License
+- [snipe/banbuilder - jp.php](https://raw.githubusercontent.com/snipe/banbuilder/5e76a97b3ff80e2beaae75ac140c38573ea027a0/src/dict/jp.php)
+  - [GNU Affero General Public License v3.0](https://github.com/snipe/banbuilder/blob/5e76a97b3ff80e2beaae75ac140c38573ea027a0/README.md#license)
+- [tatsuya1970/hiroshima-kart - ngwords.js](https://raw.githubusercontent.com/tatsuya1970/hiroshima-kart/6a10991599464b18d844d26c7a1f8c228fc6ebb6/workers/turn/ngwords.js)
+  - [MIT License](https://github.com/tatsuya1970/hiroshima-kart/blob/6a10991599464b18d844d26c7a1f8c228fc6ebb6/LICENSE)
+- [truemato/TalkOne - content_filter_service.dart](https://raw.githubusercontent.com/truemato/TalkOne/59ec65eac28fddc27b3c110571d2d5b239e8d046/lib/services/content_filter_service.dart)
+  - No License
+- [tvkoooo/accc - word.txt](https://raw.githubusercontent.com/tvkoooo/accc/e44a87b63004533d61e87de40eaa65ba2c2044fd/Ido/fpm_script/rcec/models/word.txt)
+  - No License
+- [wrigglebug/mikubox - ngw.csv](https://raw.githubusercontent.com/wrigglebug/mikubox/79fac4baa4dc43f6eaaed69faf60aebe1df6bf02/config/databank/ngw.csv)
+  - No License
+- [zawa1205/poketrade - ngList.json](https://raw.githubusercontent.com/zawa1205/poketrade/48e9bb4f87e0d004b58792d3fe59c8bc2c1de8d3/public/ngList.json)
+  - No License
