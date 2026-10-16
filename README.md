@@ -6,8 +6,8 @@
   <https://github.com/sindresorhus/awesome>
 )
 
-## On GitHub
-
+- [MosasoM/inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja)
+  - [MIT License](https://github.com/MosasoM/inappropriate-words-ja/blob/master/LICENSE)
 - [1never/open2ch-dialogue-corpus - ng_words.txt](https://raw.githubusercontent.com/1never/open2ch-dialogue-corpus/177246f19e59eba1db4596268041ad3fd05884e2/data/ng_words.txt)
   - [Apache License 2.0](https://github.com/1never/open2ch-dialogue-corpus/blob/5dbdd066525dc815541977784bc82378f5fd8a5f/LICENSE)
 - [DeanEzekiel/Unity-ArcadeSpaceShooter - ja.txt](https://raw.githubusercontent.com/DeanEzekiel/Unity-ArcadeSpaceShooter/9eea6d5dc0c6a5ace4e951a31f59908cd34b9ddf/Assets/Plugins/crosstales/BadWordFilter/Resources/Filters/ltr/ja.txt)
