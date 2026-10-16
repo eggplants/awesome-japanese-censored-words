@@ -1,5 +1,11 @@
 # AWESOME JAPANESE CENSORED WORDS
 
+[![Awesome](
+  <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
+)](
+  <https://github.com/sindresorhus/awesome>
+)
+
 ## On GitHub
 
 - [1never/open2ch-dialogue-corpus - ng_words.txt](https://raw.githubusercontent.com/1never/open2ch-dialogue-corpus/177246f19e59eba1db4596268041ad3fd05884e2/data/ng_words.txt)
